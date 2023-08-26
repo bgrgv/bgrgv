@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/streak-stats">
+  <a>
     <img src="https://streak-stats.demolab.com?user=bgrgv&theme=dark&hide_border=true&border_radius=0&mode=weekly" alt="GitHub Streak">
   </a>
   <span style="padding: 0 30px;"></span>
