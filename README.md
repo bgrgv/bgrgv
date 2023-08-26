@@ -1,5 +1,5 @@
 <div align="center">
-  <a>
+  <a href="https://linkedin.com/in/blssn">
     <img src="https://streak-stats.demolab.com?user=bgrgv&theme=dark&hide_border=true&border_radius=0&mode=weekly" alt="GitHub Streak">
   </a>
   <span style="padding: 0 30px;"></span>
